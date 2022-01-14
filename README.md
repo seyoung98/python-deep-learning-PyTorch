@@ -3,7 +3,7 @@
 - 스터디 시작 : 2022. 01. 13
 - 스터디 목적 : 파이토치 기초 다지기
 
-<img src="" width="300px" alt="book"></img><br/>
+<img src="https://github.com/seyoung98/python-deep-learning-PyTorch/blob/master/img.jpg" width="300px" alt="book"></img><br/>
 
 ## 목차
 
